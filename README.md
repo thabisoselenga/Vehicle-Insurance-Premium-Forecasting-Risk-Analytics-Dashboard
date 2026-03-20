@@ -1,1 +1,1 @@
-you can read the full documention here: https://github.com/thabisoselenga/Vehicle-Insurance-Premium-Forecasting-Risk-Analytics-Dashboard/blob/main/Vehicle_Insurance_Premium_Forecasting___Risk_Analytics_Dashboard_Documentation.pdf
+You can read the full documention here: https://github.com/thabisoselenga/Vehicle-Insurance-Premium-Forecasting-Risk-Analytics-Dashboard/blob/main/Vehicle_Insurance_Premium_Forecasting___Risk_Analytics_Dashboard_Documentation.pdf
